@@ -85,9 +85,6 @@ Here's a sample:
                 }
             ], 
             "title": "Basic Operations and Applications"
-        }, 
-        {
-            "title": "Probability, Statistics, and Data Analysis"
         }
     ], 
     "subject": "Mathematics"
