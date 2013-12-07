@@ -27,44 +27,67 @@ Here's a sample:
                 {
                     "range": "13-15", 
                     "standards": [
-                        "Perform one-operation computation with whole numbers and decimals", 
-                        "Solve problems in one or two steps using whole numbers", 
-                        "Perform common conversions (e.g., inches to feet or hours to minutes)"
+                        {
+                            "statement": "Perform one-operation computation with whole numbers and decimals"
+                        }, 
+                        {
+                            "statement": "Solve problems in one or two steps using whole numbers"
+                        }, 
+                        {
+                            "statement": "Perform common conversions (e.g., inches to feet or hours to minutes)"
+                        }
                     ]
                 }, 
                 {
                     "range": "16-19", 
                     "standards": [
-                        "Solve routine one-step arithmetic problems (using whole numbers, fractions, and decimals) such as single-step percent", 
-                        "Solve some routine two-step arithmetic problems"
+                        {
+                            "statement": "Solve routine one-step arithmetic problems (using whole numbers, fractions, and decimals) such as single-step percent"
+                        }, 
+                        {
+                            "statement": "Solve some routine two-step arithmetic problems"
+                        }
                     ]
                 }, 
                 {
                     "range": "20-23", 
                     "standards": [
-                        "Solve routine two-step or three-step arithmetic problems involving concepts such as rate and proportion, tax added, percentage off, and computing with a given average"
+                        {
+                            "statement": "Solve routine two-step or three-step arithmetic problems involving concepts such as rate and proportion, tax added, percentage off, and computing with a given average"
+                        }
                     ]
                 }, 
                 {
                     "range": "24-27", 
                     "standards": [
-                        "Solve multistep arithmetic problems that involve planning or converting units of measure (e.g., feet per second to miles per hour)"
+                        {
+                            "statement": "Solve multistep arithmetic problems that involve planning or converting units of measure (e.g., feet per second to miles per hour)"
+                        }
                     ]
                 }, 
                 {
+                    "application": "PLAN,ACT", 
                     "range": "28-32", 
                     "standards": [
-                        "Solve word problems containing several rates, proportions, or percentages"
+                        {
+                            "statement": "Solve word problems containing several rates, proportions, or percentages"
+                        }
                     ]
                 }, 
                 {
+                    "application": "ACT", 
                     "range": "33-36", 
                     "standards": [
-                        "Solve complex arithmetic problems involving percent of increase or decrease and problems requiring integration of several concepts from pre-algebra and/or pre-geometry (e.g., comparing percentages or averages, using several ratios, and finding ratios in geometry settings)"
+                        {
+                            "statement": "Solve complex arithmetic problems involving percent of increase or decrease and problems requiring integration of several concepts from pre-algebra and/or pre-geometry (e.g., comparing percentages or averages, using several ratios, and finding ratios in geometry settings)"
+                        }
                     ]
                 }
             ], 
             "title": "Basic Operations and Applications"
+        }, 
+        {
+            "title": "Probability, Statistics, and Data Analysis"
         }
     ], 
     "subject": "Mathematics"
