@@ -173,7 +173,112 @@
                 }
             ], 
             "title": "Probability, Statistics, and Data Analysis"
-        }
+        },
+        {
+            "scoreRanges": [
+                {
+                    "range": "13-15", 
+                    "standards": [
+                        {
+                            "statement": "Recognize equivalent fractions and fractions in lowest terms"
+                        }
+                    ]
+                }, 
+                {
+                    "range": "16-19", 
+                    "standards": [
+                        {
+                            "statement": "Recognize one-digit factors of a number"
+                        }, 
+                        {
+                            "statement": "Identify a digit’s place value"
+                        }
+                    ]
+                }, 
+                {
+                    "range": "20-23", 
+                    "standards": [
+                        {
+                            "statement": "Exhibit knowledge of elementary number concepts including rounding, the ordering of decimals, pattern identification, absolute value, primes, and greatest common factor"
+                        }
+                    ]
+                }, 
+                {
+                    "range": "24-27", 
+                    "standards": [
+                        {
+                            "statement": "Find and use the least common multiple"
+                        }, 
+                        {
+                            "statement": "Order fractions"
+                        }, 
+                        {
+                            "statement": "Work with numerical factors"
+                        }, 
+                        {
+                            "statement": "Work with scientific notation"
+                        },
+                        {
+                            "statement": "Work with squares and square roots of numbers"
+                        }, 
+                        {
+							"application": "PLAN,ACT", 
+                            "statement": "Work problems involving positive integer exponents"
+                        }, 
+                        {
+							"application": "PLAN,ACT", 
+                            "statement": "Work with cubes and cube roots of numbers"
+                        }, 
+                        {
+							"application": "PLAN,ACT", 
+                            "statement": "Determine when an expression is undefined"
+                        }, 
+                        {
+							"application": "ACT", 
+                            "statement": "Exhibit some knowledge of the complex numbers"
+                        }
+                    ]
+                }, 
+                {
+                    "application": "PLAN,ACT", 
+                    "range": "28-32", 
+                    "standards": [
+                        {
+                            "statement": "Apply number properties involving prime factorization"
+                        }, 
+                        {
+                            "statement": "Apply number properties involving even/odd numbers and factors/multiples"
+                        }, 
+                        {
+                            "statement": "Apply number properties involving positive/negative numbers"
+                        }, 
+                        {
+                            "statement": "Apply rules of exponents"
+                        },
+                        {
+							"application": "ACT", 
+                            "statement": "Multiply two complex numbers"
+                        }
+                    ]
+                }, 
+                {
+                    "application": "ACT", 
+                    "range": "33-36", 
+                    "standards": [
+                        {
+                            "statement": "Draw conclusions based on number concepts, algebraic properties, and/or relationships between expressions and numbers"
+                        }, 
+                        {
+                            "statement": "Exhibit knowledge of logarithms and geometric sequences"
+                        }, 
+                        {
+                            "statement": "Apply properties of complex numbers"
+                        }
+                    ]
+                }
+            ], 
+            "title": "Numbers: Concepts and Properties"
+        }		
     ], 
     "subject": "Mathematics"
 }
