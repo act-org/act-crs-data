@@ -16,38 +16,60 @@ Here's a sample:
 
 ```json
   {
-    "id":"2A26EE660F72412EA29765D79C367F0B",
-    "language":"English",
-    "subject":"Math",
-    "gradeLevel":"Grade 1",
-    "code":"Math.1.OA.7",
-    "shortCode":"1.OA.7",
-    "listIdentifier":"7",
-    "statement":"Understand the meaning of the equal sign, and determine if equations involving addition and subtraction are true or false.",
-    "clarifications":[
-      "For example, which of the following equations are true and which are false? 6 = 6, 7 = 8 - 1, 5 + 2 = 2 + 5, 4 + 1 = 5 + 2."
-    ],
-    "gradeLevels":[
-      "01"
-    ],
-    "jurisdiction":"Common Core State Standards Initiative",
-    "jurisdictionAbbreviation":"CC",
-    "ASN":{
-      "identifier":"http://purl.org/ASN/resources/S114343E",
-      "id":"S114343E",
-      "parent":"S1143430",
-      "indexingStatus":"Yes",
-      "authorityStatus":"Original Statement",
-      "statementNotation":"1.OA.7",
-      "leaf":"true"
-    },
-    "CCSSI":{
-      "GUID":"2A26EE660F72412EA29765D79C367F0B",
-      "dotNotation":"Math.1.OA.7",
-      "URI":"http://corestandards.org/2010/math/content/1/OA/7",
-      "currentURL":"http://www.corestandards.org/the-standards/mathematics/grade-1/operations-and-algebraic-thinking/#1-oa-7"
-    }
-  }
+    "URI": "http://www.act.org/standard/planact/math/index.html", 
+    "id": "act.crs.math", 
+    "jurisdiction": "ACT, Inc.", 
+    "jurisdictionAbbreviation": "ACT", 
+    "language": "English", 
+    "strands": [
+        {
+            "scoreRanges": [
+                {
+                    "range": "13-15", 
+                    "standards": [
+                        "Perform one-operation computation with whole numbers and decimals", 
+                        "Solve problems in one or two steps using whole numbers", 
+                        "Perform common conversions (e.g., inches to feet or hours to minutes)"
+                    ]
+                }, 
+                {
+                    "range": "16-19", 
+                    "standards": [
+                        "Solve routine one-step arithmetic problems (using whole numbers, fractions, and decimals) such as single-step percent", 
+                        "Solve some routine two-step arithmetic problems"
+                    ]
+                }, 
+                {
+                    "range": "20-23", 
+                    "standards": [
+                        "Solve routine two-step or three-step arithmetic problems involving concepts such as rate and proportion, tax added, percentage off, and computing with a given average"
+                    ]
+                }, 
+                {
+                    "range": "24-27", 
+                    "standards": [
+                        "Solve multistep arithmetic problems that involve planning or converting units of measure (e.g., feet per second to miles per hour)"
+                    ]
+                }, 
+                {
+                    "range": "28-32", 
+                    "standards": [
+                        "Solve word problems containing several rates, proportions, or percentages"
+                    ]
+                }, 
+                {
+                    "range": "33-36", 
+                    "standards": [
+                        "Solve complex arithmetic problems involving percent of increase or decrease and problems requiring integration of several concepts from pre-algebra and/or pre-geometry (e.g., comparing percentages or averages, using several ratios, and finding ratios in geometry settings)"
+                    ]
+                }
+            ], 
+            "title": "Basic Operations and Applications"
+        }
+    ], 
+    "subject": "Mathematics"
+}
+
 ```
 
 
