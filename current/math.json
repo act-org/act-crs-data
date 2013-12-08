@@ -492,6 +492,196 @@
                 }
             ], 
             "title": "Graphical Representations"
+        },
+        {
+            "scoreRanges": [                
+                {
+                    "range": "16-19", 
+                    "standards": [
+                        {
+                            "statement": "Exhibit some knowledge of the angles associated with parallel lines"
+                        }
+                    ]
+                }, 
+                {
+                    "range": "20-23", 
+                    "standards": [
+                        {
+                            "statement": "Find the measure of an angle using properties of parallel lines"
+                        }, 
+                        {
+                            "statement": "Exhibit knowledge of basic angle properties and special sums of angle measures (e.g., 90°, 180°, and 360°)"
+                        }
+                    ]
+                }, 
+                {
+                    "range": "24-27", 
+                    "standards": [
+                        {
+                            "statement": "Use several angle properties to find an unknown angle measure"
+                        }, 
+                        {
+                            "statement": "Recognize Pythagorean triples"
+                        }, 
+                        {
+                            "statement": "Use properties of isosceles triangles"
+                        }
+                    ]
+                }, 
+                {
+                    "application": "PLAN,ACT", 
+                    "range": "28-32", 
+                    "standards": [
+                        {
+                            "statement": "Apply properties of 30°-60°-90°, 45°-45°-90°, similar, and congruent triangles"
+                        }, 
+                        {
+                            "statement": "Use the Pythagorean theorem"
+                        }
+                    ]
+                }, 
+                {
+                    "application": "ACT", 
+                    "range": "33-36", 
+                    "standards": [
+                        {
+                            "statement": "Draw conclusions based on a set of conditions"
+                        }, 
+                        {
+                            "statement": "Solve multistep geometry problems that involve integrating concepts, planning, visualization, and/or making connections with other content areas"
+                        }, 
+                        {
+                            "statement": "Use relationships among angles, arcs, and distances in a circle"
+                        }
+                    ]
+                }
+            ], 
+            "title": "Properties of Plane Figures"
+        },
+        {
+            "scoreRanges": [   
+                {
+                    "range": "13-15", 
+                    "standards": [
+                        {
+                            "statement": "Estimate or calculate the length of a line segment based on other lengths given on a geometric figure"
+                        }
+                    ]
+                },              
+                {
+                    "range": "16-19", 
+                    "standards": [
+                        {
+                            "statement": "Compute the perimeter of polygons when all side lengths are given"
+                        },
+                        {
+                            "statement": "Compute the area of rectangles when whole number dimensions are given"
+                        }
+                    ]
+                }, 
+                {
+                    "range": "20-23", 
+                    "standards": [
+                        {
+                            "statement": "Compute the area and perimeter of triangles and rectangles in simple problems"
+                        }, 
+                        {
+                            "statement": "Use geometric formulas when all necessary information is given"
+                        }
+                    ]
+                }, 
+                {
+                    "range": "24-27", 
+                    "standards": [
+                        {
+                            "statement": "Compute the area of triangles and rectangles when one or more additional simple steps are required"
+                        }, 
+                        {
+                            "statement": "Compute the area and circumference of circles after identifying necessary information"
+                        }, 
+                        {
+							"application": "PLAN,ACT", 
+                            "statement": "Compute the perimeter of simple composite geometric figures with unknown side lengths"
+                        }
+                    ]
+                }, 
+                {
+                    "application": "PLAN,ACT", 
+                    "range": "28-32", 
+                    "standards": [
+                        {
+                            "statement": "Use relationships involving area, perimeter, and volume of geometric figures to compute another measure"
+                        }
+                    ]
+                }, 
+                {
+                    "application": "ACT", 
+                    "range": "33-36", 
+                    "standards": [
+                        {
+                            "statement": "Use scale factors to determine the magnitude of a size change"
+                        }, 
+                        {
+                            "statement": "Compute the area of composite geometric figures when planning or visualization is required"
+                        }
+                    ]
+                }
+            ], 
+            "title": "Measurement"
+        },
+        {
+            "scoreRanges": [   
+                {
+                    "range": "20-23", 
+                    "standards": [
+                        {
+                            "statement": "Evaluate quadratic functions, expressed in function notation, at integer values"
+                        }
+                    ]
+                }, 
+                {
+                    "range": "24-27", 
+                    "standards": [
+                        {
+                            "statement": "Evaluate polynomial functions, expressed in function notation, at integer values"
+                        }, 
+                        {
+                            "statement": "Express the sine, cosine, and tangent of an angle in a right triangle as a ratio of given side lengths"
+                        }
+                    ]
+                }, 
+                {
+                    "application": "PLAN,ACT", 
+                    "range": "28-32", 
+                    "standards": [
+                        {
+                            "statement": "Evaluate composite functions at integer values"
+                        },
+                        {
+                            "statement": "Apply basic trigonometric ratios to solve right-triangle problems"
+                        }
+                    ]
+                }, 
+                {
+                    "application": "ACT", 
+                    "range": "33-36", 
+                    "standards": [
+                        {
+                            "statement": "Write an expression for the composite of two simple functions"
+                        }, 
+                        {
+                            "statement": "Use trigonometric concepts and basic identities to solve problems"
+                        },
+                        {
+                            "statement": "Exhibit knowledge of unit circle trigonometry"
+                        }, 
+                        {
+                            "statement": "Match graphs of basic trigonometric functions with their equations"
+                        }
+                    ]
+                }
+            ], 
+            "title": "Functions"
         }
     ], 
     "subject": "Mathematics"
