@@ -394,6 +394,104 @@
                 }
             ], 
             "title": "Expressions, Equations, & Inequalities"
+        }, 
+        {
+            "scoreRanges": [
+                {
+                    "range": "13-15", 
+                    "standards": [
+                        {
+                            "statement": "Identify the location of a point with a positive coordinate on the number line"
+                        }
+                    ]
+                }, 
+                {
+                    "range": "16-19", 
+                    "standards": [
+                        {
+                            "statement": "Locate points on the number line and in the first quadrant"
+                        }
+                    ]
+                }, 
+                {
+                    "range": "20-23", 
+                    "standards": [
+                        {
+                            "statement": "Locate points in the coordinate plane"
+                        }, 
+                        {
+                            "application": "PLAN,ACT", 
+                            "statement": "Comprehend the concept of length on the number line"
+                        }, 
+                        {
+                            "application": "PLAN,ACT", 
+                            "statement": "Exhibit knowledge of slope"
+                        }
+                    ]
+                }, 
+                {
+                    "range": "24-27", 
+                    "standards": [
+                        {
+                            "application": "PLAN,ACT", 
+                            "statement": "Identify the graph of a linear inequality on the number line"
+                        }, 
+                        {
+                            "application": "PLAN,ACT", 
+                            "statement": "Determine the slope of a line from points or equations"
+                        }, 
+                        {
+                            "application": "PLAN,ACT", 
+                            "statement": "Match linear graphs with their equations"
+                        }, 
+                        {
+                            "application": "PLAN,ACT", 
+                            "statement": "Find the midpoint of a line segment"
+                        }
+                    ]
+                }, 
+                {
+                    "application": "PLAN,ACT", 
+                    "range": "28-32", 
+                    "standards": [
+                        {
+                            "statement": "Interpret and use information from graphs in the coordinate plane"
+                        }, 
+                        {
+                            "statement": "Match number line graphs with solution sets of linear inequalities"
+                        }, 
+                        {
+                            "statement": "Use the distance formula"
+                        }, 
+                        {
+                            "statement": "Use properties of parallel and perpendicular lines to determine an equation of a line or coordinates of a point"
+                        }, 
+                        {
+                            "application": "ACT", 
+                            "statement": "Recognize special characteristics of parabolas and circles (e.g., the vertex of a parabola and the center or radius of a circle)"
+                        }
+                    ]
+                }, 
+                {
+                    "application": "ACT", 
+                    "range": "33-36", 
+                    "standards": [
+                        {
+                            "statement": "Match number line graphs with solution sets of simple quadratic inequalities"
+                        }, 
+                        {
+                            "statement": "Identify characteristics of graphs based on a set of conditions or on a general equation such as y = ax2 + c"
+                        }, 
+                        {
+                            "statement": "Solve problems integrating multiple algebraic and/or geometric concepts"
+                        }, 
+                        {
+                            "statement": "Analyze and draw conclusions based on information from graphs in the coordinate plane"
+                        }
+                    ]
+                }
+            ], 
+            "title": "Graphical Representations"
         }
     ], 
     "subject": "Mathematics"
