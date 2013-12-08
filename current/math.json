@@ -173,7 +173,7 @@
                 }
             ], 
             "title": "Probability, Statistics, and Data Analysis"
-        },
+        }, 
         {
             "scoreRanges": [
                 {
@@ -191,7 +191,7 @@
                             "statement": "Recognize one-digit factors of a number"
                         }, 
                         {
-                            "statement": "Identify a digit’s place value"
+                            "statement": "Identify a digit\u2019s place value"
                         }
                     ]
                 }, 
@@ -217,24 +217,24 @@
                         }, 
                         {
                             "statement": "Work with scientific notation"
-                        },
+                        }, 
                         {
                             "statement": "Work with squares and square roots of numbers"
                         }, 
                         {
-							"application": "PLAN,ACT", 
+                            "application": "PLAN,ACT", 
                             "statement": "Work problems involving positive integer exponents"
                         }, 
                         {
-							"application": "PLAN,ACT", 
+                            "application": "PLAN,ACT", 
                             "statement": "Work with cubes and cube roots of numbers"
                         }, 
                         {
-							"application": "PLAN,ACT", 
+                            "application": "PLAN,ACT", 
                             "statement": "Determine when an expression is undefined"
                         }, 
                         {
-							"application": "ACT", 
+                            "application": "ACT", 
                             "statement": "Exhibit some knowledge of the complex numbers"
                         }
                     ]
@@ -254,9 +254,9 @@
                         }, 
                         {
                             "statement": "Apply rules of exponents"
-                        },
+                        }, 
                         {
-							"application": "ACT", 
+                            "application": "ACT", 
                             "statement": "Multiply two complex numbers"
                         }
                     ]
@@ -278,7 +278,123 @@
                 }
             ], 
             "title": "Numbers: Concepts and Properties"
-        }		
+        }, 
+        {
+            "scoreRanges": [
+                {
+                    "range": "13-15", 
+                    "standards": [
+                        {
+                            "statement": "Exhibit knowledge of basic expressions (e.g., identify an expression for a total as b + g)"
+                        }, 
+                        {
+                            "statement": "Solve equations in the form x + a = b, where a and b are whole numbers or decimals"
+                        }
+                    ]
+                }, 
+                {
+                    "range": "16-19", 
+                    "standards": [
+                        {
+                            "statement": "Substitute whole numbers for unknown quantities to evaluate expressions"
+                        }, 
+                        {
+                            "statement": "Solve one-step equations having integer or decimal answers"
+                        }, 
+                        {
+                            "statement": "Combine like terms (e.g., 2x + 5x)"
+                        }
+                    ]
+                }, 
+                {
+                    "range": "20-23", 
+                    "standards": [
+                        {
+                            "statement": "Evaluate algebraic expressions by substituting integers for unknown quantities"
+                        }, 
+                        {
+                            "statement": "Add and subtract simple algebraic expressions"
+                        }, 
+                        {
+                            "statement": "Solve routine first-degree equations"
+                        }, 
+                        {
+                            "statement": "Perform straightforward word-to-symbol translations"
+                        }, 
+                        {
+                            "application": "PLAN,ACT", 
+                            "statement": "Multiply two binomials"
+                        }
+                    ]
+                }, 
+                {
+                    "range": "24-27", 
+                    "standards": [
+                        {
+                            "statement": "Solve real-world problems using first- degree equations"
+                        }, 
+                        {
+                            "statement": "Write expressions, equations, or inequalities with a single variable for common pre-algebra settings (e.g., rate and distance problems and problems that can be solved by using proportions)"
+                        }, 
+                        {
+                            "statement": "Identify solutions to simple quadratic equations"
+                        }, 
+                        {
+                            "application": "PLAN,ACT", 
+                            "statement": "Add, subtract, and multiply polynomials"
+                        }, 
+                        {
+                            "application": "PLAN,ACT", 
+                            "statement": "Factor simple quadratics (e.g., the difference of squares and perfect square trinomials)"
+                        }, 
+                        {
+                            "application": "PLAN,ACT", 
+                            "statement": "Solve first-degree inequalities that do not require reversing the inequality sign"
+                        }
+                    ]
+                }, 
+                {
+                    "application": "PLAN,ACT", 
+                    "range": "28-32", 
+                    "standards": [
+                        {
+                            "statement": "Manipulate expressions and equations"
+                        }, 
+                        {
+                            "statement": "Write expressions, equations, and inequalities for common algebra settings"
+                        }, 
+                        {
+                            "statement": "Solve linear inequalities that require reversing the inequality sign"
+                        }, 
+                        {
+                            "statement": "Solve absolute value equations"
+                        }, 
+                        {
+                            "statement": "Solve quadratic equations"
+                        }, 
+                        {
+                            "statement": "Find solutions to systems of linear equations"
+                        }
+                    ]
+                }, 
+                {
+                    "application": "ACT", 
+                    "range": "33-36", 
+                    "standards": [
+                        {
+                            "statement": "Write expressions that require planning and/or manipulating to accurately model a situation"
+                        }, 
+                        {
+                            "statement": "Write equations and inequalities that require planning, manipulating, and/or solving"
+                        }, 
+                        {
+                            "statement": "Solve simple absolute value inequalities"
+                        }
+                    ]
+                }
+            ], 
+            "title": "Expressions, Equations, & Inequalities"
+        }
     ], 
     "subject": "Mathematics"
 }
