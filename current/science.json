@@ -1,0 +1,249 @@
+{
+    "URI": "http://www.act.org/standard/planact/science/index.html", 
+    "id": "act.crs.science", 
+    "jurisdiction": "ACT, Inc.", 
+    "jurisdictionAbbreviation": "ACT", 
+    "language": "English", 
+    "strands": [
+        {
+            "scoreRanges": [
+                {
+                    "range": "13-15", 
+                    "standards": [
+                        {
+                            "statement": "Select a single piece of data (numerical or nonnumerical) from a simple data presentation (e.g., a table or graph with two or three variables; a food web diagram)"
+                        }, 
+                        {
+                            "statement": "Identify basic features of a table, graph, or diagram (e.g., headings, units of measurement, axis labels)"
+                        }
+                    ]
+                }, 
+                {
+                    "range": "16-19", 
+                    "standards": [
+                        {
+                            "statement": "Select two or more pieces of data from a simple data presentation"
+                        }, 
+                        {
+                            "statement": "Understand basic scientific terminology"
+                        }, 
+                        {
+                            "statement": "Find basic information in a brief body of text"
+                        }, 
+                        {
+                            "statement": "Determine how the value of one variable changes as the value of another variable changes in a simple data presentation"
+                        }
+                    ]
+                }, 
+                {
+                    "range": "20-23", 
+                    "standards": [
+                        {
+                            "statement": "Select data from a complex data presentation (e.g., a table or graph with more than three variables; a phase diagram)"
+                        }, 
+                        {
+                            "statement": "Compare or combine data from a simple data presentation (e.g., order or sum data from a table)"
+                        }, 
+                        {
+                            "statement": "Translate information into a table, graph, or diagram"
+                        }
+                    ]
+                }, 
+                {
+                    "range": "24-27", 
+                    "standards": [
+                        {
+                            "statement": "Compare or combine data from two or more simple data presentations (e.g., categorize data from a table using a scale from another table)"
+                        }, 
+                        {
+                            "statement": "Compare or combine data from a complex data presentation"
+                        }, 
+                        {
+                            "statement": "Interpolate between data points in a table or graph"
+                        }, 
+                        {
+                            "statement": "Determine how the value of one variable changes as the value of another variable changes in a complex data presentation"
+                        }, 
+                        {
+                            "statement": "Identify and/or use a simple (e.g., linear) mathematical relationship between data"
+                        }, 
+                        {
+                            "statement": "Analyze given information when presented with new, simple information"
+                        }
+                    ]
+                }, 
+                {
+                    "application": "PLAN,ACT", 
+                    "range": "28-32", 
+                    "standards": [
+                        {
+                            "statement": "Compare or combine data from a simple data presentation with data from a complex data presentation"
+                        }, 
+                        {
+                            "statement": "Identify and/or use a complex (e.g., nonlinear) mathematical relationship between data"
+                        }, 
+                        {
+                            "statement": "Extrapolate from data points in a table or graph"
+                        }
+                    ]
+                }, 
+                {
+                    "application": "ACT", 
+                    "range": "33-36", 
+                    "standards": [
+                        {
+                            "statement": "Compare or combine data from two or more complex data presentations"
+                        },
+                        {
+                            "statement": "Analyze given information when presented with new, complex information"
+                        }
+                    ]
+                }
+            ], 
+            "title": "Interpretation of Data"
+        },
+        {
+            "scoreRanges": [
+                {
+                    "range": "16-19", 
+                    "standards": [
+                        {
+                            "statement": "Understand the methods and tools used in a simple experiment"
+                        }
+                    ]
+                }, 
+                {
+                    "range": "20-23", 
+                    "standards": [
+                        {
+                            "statement": "Understand the methods and tools used in a moderately complex experiment"
+                        }, 
+                        {
+                            "statement": "Understand a simple experimental design"
+                        }, 
+                        {
+                            "statement": "Identify a control in an experiment"
+                        }, 
+                        {
+                            "statement": "Identify similarities and differences between experiments"
+                        }
+						
+                    ]
+                }, 
+                {
+                    "range": "24-27", 
+                    "standards": [
+                        {
+                            "statement": "Understand the methods and tools used in a complex experiment"
+                        }, 
+                        {
+                            "statement": "Understand a complex experimental design"
+                        }, 
+                        {
+                            "statement": "Predict the results of an additional trial or measurement in an experiment"
+                        }, 
+                        {
+                            "statement": "Determine the experimental conditions that would produce specified results"
+                        }
+                    ]
+                }, 
+                {
+                    "application": "PLAN,ACT", 
+                    "range": "28-32", 
+                    "standards": [
+                        {
+                            "statement": "Determine the hypothesis for an experiment"
+                        }, 
+                        {
+                            "statement": "Identify an alternate method for testing a hypothesis"
+                        }
+                    ]
+                }, 
+                {
+                    "application": "ACT", 
+                    "range": "33-36", 
+                    "standards": [
+                        {
+                            "statement": "Understand precision and accuracy issues"
+                        },
+                        {
+                            "statement": "Predict how modifying the design or methods of an experiment will affect results"
+                        },
+                        {
+                            "statement": "Identify an additional trial or experiment that could be performed to enhance or evaluate experimental results"
+                        }
+                    ]
+                }
+            ], 
+            "title": "Scientific Investigation"
+        },
+        {
+            "scoreRanges": [
+                {
+                    "range": "20-23", 
+                    "standards": [
+                        {
+                            "statement": "Select a simple hypothesis, prediction, or conclusion that is supported by a data presentation or a model"
+                        }, 
+                        {
+                            "statement": "Identify key issues or assumptions in a model"
+                        }
+						
+                    ]
+                }, 
+                {
+                    "range": "24-27", 
+                    "standards": [
+                        {
+                            "statement": "Select a simple hypothesis, prediction, or conclusion that is supported by two or more data presentations or models"
+                        }, 
+                        {
+                            "statement": "Determine whether given information supports or contradicts a simple hypothesis or conclusion, and why"
+                        }, 
+                        {
+                            "statement": "Identify strengths and weaknesses in one or more models"
+                        }, 
+                        {
+                            "statement": "Identify similarities and differences between models"
+                        }, 
+                        {
+                            "statement": "Determine which model(s) is(are) supported or weakened by new information"
+                        }, 
+                        {
+                            "statement": "Select a data presentation or a model that supports or contradicts a hypothesis, prediction, or conclusion"
+                        }
+                    ]
+                }, 
+                {
+                    "application": "PLAN,ACT", 
+                    "range": "28-32", 
+                    "standards": [
+                        {
+                            "statement": "Select a complex hypothesis, prediction, or conclusion that is supported by a data presentation or model"
+                        }, 
+                        {
+                            "statement": "Determine whether new information supports or weakens a model, and why"
+                        }, 
+                        {
+                            "statement": "Use new information to make a prediction based on a model"
+                        }
+                    ]
+                }, 
+                {
+                    "application": "ACT", 
+                    "range": "33-36", 
+                    "standards": [
+                        {
+                            "statement": "Select a complex hypothesis, prediction, or conclusion that is supported by two or more data presentations or models"
+                        },
+                        {
+                            "statement": "Determine whether given information supports or contradicts a complex hypothesis or conclusion, and why"
+                        }
+                    ]
+                }
+            ], 
+            "title": "Evaluation of Models, Inferences, and Experimental Results"
+        }
+    ], 
+    "subject": "Science"
+}
