@@ -1,0 +1,155 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "Animal Behavior"
+                }, 
+                {
+                    "name": "Animal development and growth"
+                }, 
+                {
+                    "name": "Body systems"
+                }, 
+                {
+                    "name": "Cell structure and processes"
+                }, 
+                {
+                    "name": "Ecology"
+                }, 
+                {
+                    "name": "Evolution"
+                }, 
+                {
+                    "name": "Genetics"
+                }, 
+                {
+                    "name": "Homeostasis"
+                }, 
+                {
+                    "name": "Life cycles"
+                }, 
+                {
+                    "name": "Molecular basis of heredity"
+                }, 
+                {
+                    "name": "Origin of life"
+                }, 
+                {
+                    "name": "Photosynthesis"
+                }, 
+                {
+                    "name": "Plant development, growth, structure"
+                }, 
+                {
+                    "name": "Populations"
+                }, 
+                {
+                    "name": "Taxonomy"
+                }
+            ], 
+            "name": "life science/biology"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Atomic structure"
+                }, 
+                {
+                    "name": "Chemical bonding, equations, nomenclature, reactions "
+                }, 
+                {
+                    "name": "Electrical circuits"
+                }, 
+                {
+                    "name": "Elements, compounds, mixtures"
+                }, 
+                {
+                    "name": "Force and motions"
+                }, 
+                {
+                    "name": "Gravitation"
+                }, 
+                {
+                    "name": "Heat and work"
+                }, 
+                {
+                    "name": "Kinetic and potential energy"
+                }, 
+                {
+                    "name": "Magnetism"
+                }, 
+                {
+                    "name": "Momentum"
+                }, 
+                {
+                    "name": "The Periodic Table"
+                }, 
+                {
+                    "name": "Properties of solutions"
+                }, 
+                {
+                    "name": "Sound and light"
+                }, 
+                {
+                    "name": "States, classes, and properties of matter"
+                }, 
+                {
+                    "name": "Waves"
+                }
+            ], 
+            "name": "Physical Science/Chemistry, Physics"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Earthquakes and volcanoes"
+                }, 
+                {
+                    "name": "Earth\u2019s atmosphere"
+                }, 
+                {
+                    "name": "Earth\u2019s resources"
+                }, 
+                {
+                    "name": "Fossils and geological time"
+                }, 
+                {
+                    "name": "Geochemical cycles"
+                }, 
+                {
+                    "name": "Groundwater"
+                }, 
+                {
+                    "name": "Lakes, rivers, oceans"
+                }, 
+                {
+                    "name": "Mass movements"
+                }, 
+                {
+                    "name": "Plate tectonics"
+                }, 
+                {
+                    "name": "Rocks, minerals"
+                }, 
+                {
+                    "name": "Solar system"
+                }, 
+                {
+                    "name": "Stars, galaxies, and the universe "
+                }, 
+                {
+                    "name": "Water cycle"
+                }, 
+                {
+                    "name": "Weather and climate"
+                }, 
+                {
+                    "name": "Weathering and erosion"
+                }
+            ], 
+            "name": "Earth and Space Science"
+        }
+    ], 
+    "name": "science"
+}
