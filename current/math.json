@@ -6,62 +6,78 @@
     "language": "English", 
     "strands": [
         {
+            "id": "act.crs.math.boa", 
             "scoreRanges": [
                 {
+                    "id": "act.crs.math.boa.13-15", 
                     "range": "13-15", 
                     "standards": [
                         {
+                            "id": "act.crs.math.boa.13-15.1", 
                             "statement": "Perform one-operation computation with whole numbers and decimals"
                         }, 
                         {
+                            "id": "act.crs.math.boa.13-15.2", 
                             "statement": "Solve problems in one or two steps using whole numbers"
                         }, 
                         {
+                            "id": "act.crs.math.boa.13-15.3", 
                             "statement": "Perform common conversions (e.g., inches to feet or hours to minutes)"
                         }
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.boa.16-19", 
                     "range": "16-19", 
                     "standards": [
                         {
+                            "id": "act.crs.math.boa.16-19.1", 
                             "statement": "Solve routine one-step arithmetic problems (using whole numbers, fractions, and decimals) such as single-step percent"
                         }, 
                         {
+                            "id": "act.crs.math.boa.16-19.2", 
                             "statement": "Solve some routine two-step arithmetic problems"
                         }
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.boa.20-23", 
                     "range": "20-23", 
                     "standards": [
                         {
+                            "id": "act.crs.math.boa.20-23.1", 
                             "statement": "Solve routine two-step or three-step arithmetic problems involving concepts such as rate and proportion, tax added, percentage off, and computing with a given average"
                         }
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.boa.24-27", 
                     "range": "24-27", 
                     "standards": [
                         {
+                            "id": "act.crs.math.boa.24-27.1", 
                             "statement": "Solve multistep arithmetic problems that involve planning or converting units of measure (e.g., feet per second to miles per hour)"
                         }
                     ]
                 }, 
                 {
                     "application": "PLAN,ACT", 
+                    "id": "act.crs.math.boa.28-32", 
                     "range": "28-32", 
                     "standards": [
                         {
+                            "id": "act.crs.math.boa.28-32.1", 
                             "statement": "Solve word problems containing several rates, proportions, or percentages"
                         }
                     ]
                 }, 
                 {
                     "application": "ACT", 
+                    "id": "act.crs.math.boa.33-36", 
                     "range": "33-36", 
                     "standards": [
                         {
+                            "id": "act.crs.math.boa.33-36.1", 
                             "statement": "Solve complex arithmetic problems involving percent of increase or decrease and problems requiring integration of several concepts from pre-algebra and/or pre-geometry (e.g., comparing percentages or averages, using several ratios, and finding ratios in geometry settings)"
                         }
                     ]
@@ -70,8 +86,10 @@
             "title": "Basic Operations and Applications"
         }, 
         {
+            "id": "act.crs.math.psda", 
             "scoreRanges": [
                 {
+                    "id": "act.crs.math.psda.13-15", 
                     "range": "13-15", 
                     "standards": [
                         {
@@ -83,6 +101,7 @@
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.psda.16-19", 
                     "range": "16-19", 
                     "standards": [
                         {
@@ -103,6 +122,7 @@
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.psda.20-23", 
                     "range": "20-23", 
                     "standards": [
                         {
@@ -121,6 +141,7 @@
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.psda.24-27", 
                     "range": "24-27", 
                     "standards": [
                         {
@@ -140,6 +161,7 @@
                 }, 
                 {
                     "application": "PLAN,ACT", 
+                    "id": "act.crs.math.psda.28-32", 
                     "range": "28-32", 
                     "standards": [
                         {
@@ -158,6 +180,7 @@
                 }, 
                 {
                     "application": "ACT", 
+                    "id": "act.crs.math.psda.33-36", 
                     "range": "33-36", 
                     "standards": [
                         {
@@ -175,8 +198,10 @@
             "title": "Probability, Statistics, and Data Analysis"
         }, 
         {
+            "id": "act.crs.math.ncp", 
             "scoreRanges": [
                 {
+                    "id": "act.crs.math.ncp.13-15", 
                     "range": "13-15", 
                     "standards": [
                         {
@@ -185,6 +210,7 @@
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.ncp.16-19", 
                     "range": "16-19", 
                     "standards": [
                         {
@@ -196,6 +222,7 @@
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.ncp.20-23", 
                     "range": "20-23", 
                     "standards": [
                         {
@@ -204,6 +231,7 @@
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.ncp.24-27", 
                     "range": "24-27", 
                     "standards": [
                         {
@@ -241,6 +269,7 @@
                 }, 
                 {
                     "application": "PLAN,ACT", 
+                    "id": "act.crs.math.ncp.28-32", 
                     "range": "28-32", 
                     "standards": [
                         {
@@ -263,6 +292,7 @@
                 }, 
                 {
                     "application": "ACT", 
+                    "id": "act.crs.math.ncp.33-36", 
                     "range": "33-36", 
                     "standards": [
                         {
@@ -280,8 +310,10 @@
             "title": "Numbers: Concepts and Properties"
         }, 
         {
+            "id": "act.crs.math.eei", 
             "scoreRanges": [
                 {
+                    "id": "act.crs.math.eei.13-15", 
                     "range": "13-15", 
                     "standards": [
                         {
@@ -293,6 +325,7 @@
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.eei.16-19", 
                     "range": "16-19", 
                     "standards": [
                         {
@@ -307,6 +340,7 @@
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.eei.20-23", 
                     "range": "20-23", 
                     "standards": [
                         {
@@ -328,6 +362,7 @@
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.eei.24-27", 
                     "range": "24-27", 
                     "standards": [
                         {
@@ -355,6 +390,7 @@
                 }, 
                 {
                     "application": "PLAN,ACT", 
+                    "id": "act.crs.math.eei.28-32", 
                     "range": "28-32", 
                     "standards": [
                         {
@@ -379,6 +415,7 @@
                 }, 
                 {
                     "application": "ACT", 
+                    "id": "act.crs.math.eei.33-36", 
                     "range": "33-36", 
                     "standards": [
                         {
@@ -396,8 +433,10 @@
             "title": "Expressions, Equations, & Inequalities"
         }, 
         {
+            "id": "act.crs.math.gr", 
             "scoreRanges": [
                 {
+                    "id": "act.crs.math.gr.13-15", 
                     "range": "13-15", 
                     "standards": [
                         {
@@ -406,6 +445,7 @@
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.gr.16-19", 
                     "range": "16-19", 
                     "standards": [
                         {
@@ -414,6 +454,7 @@
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.gr.20-23", 
                     "range": "20-23", 
                     "standards": [
                         {
@@ -430,6 +471,7 @@
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.gr.24-27", 
                     "range": "24-27", 
                     "standards": [
                         {
@@ -452,6 +494,7 @@
                 }, 
                 {
                     "application": "PLAN,ACT", 
+                    "id": "act.crs.math.gr.28-32", 
                     "range": "28-32", 
                     "standards": [
                         {
@@ -474,6 +517,7 @@
                 }, 
                 {
                     "application": "ACT", 
+                    "id": "act.crs.math.gr.33-36", 
                     "range": "33-36", 
                     "standards": [
                         {
@@ -492,10 +536,12 @@
                 }
             ], 
             "title": "Graphical Representations"
-        },
+        }, 
         {
-            "scoreRanges": [                
+            "id": "act.crs.math.ppf", 
+            "scoreRanges": [
                 {
+                    "id": "act.crs.math.ppf.16-19", 
                     "range": "16-19", 
                     "standards": [
                         {
@@ -504,17 +550,19 @@
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.ppf.20-23", 
                     "range": "20-23", 
                     "standards": [
                         {
                             "statement": "Find the measure of an angle using properties of parallel lines"
                         }, 
                         {
-                            "statement": "Exhibit knowledge of basic angle properties and special sums of angle measures (e.g., 90°, 180°, and 360°)"
+                            "statement": "Exhibit knowledge of basic angle properties and special sums of angle measures (e.g., 90\u00b0, 180\u00b0, and 360\u00b0)"
                         }
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.ppf.24-27", 
                     "range": "24-27", 
                     "standards": [
                         {
@@ -530,10 +578,11 @@
                 }, 
                 {
                     "application": "PLAN,ACT", 
+                    "id": "act.crs.math.ppf.28-32", 
                     "range": "28-32", 
                     "standards": [
                         {
-                            "statement": "Apply properties of 30°-60°-90°, 45°-45°-90°, similar, and congruent triangles"
+                            "statement": "Apply properties of 30\u00b0-60\u00b0-90\u00b0, 45\u00b0-45\u00b0-90\u00b0, similar, and congruent triangles"
                         }, 
                         {
                             "statement": "Use the Pythagorean theorem"
@@ -542,6 +591,7 @@
                 }, 
                 {
                     "application": "ACT", 
+                    "id": "act.crs.math.ppf.33-36", 
                     "range": "33-36", 
                     "standards": [
                         {
@@ -557,29 +607,33 @@
                 }
             ], 
             "title": "Properties of Plane Figures"
-        },
+        }, 
         {
-            "scoreRanges": [   
+            "id": "act.crs.math.m", 
+            "scoreRanges": [
                 {
+                    "id": "act.crs.math.m.13-15", 
                     "range": "13-15", 
                     "standards": [
                         {
                             "statement": "Estimate or calculate the length of a line segment based on other lengths given on a geometric figure"
                         }
                     ]
-                },              
+                }, 
                 {
+                    "id": "act.crs.math.m.16-19", 
                     "range": "16-19", 
                     "standards": [
                         {
                             "statement": "Compute the perimeter of polygons when all side lengths are given"
-                        },
+                        }, 
                         {
                             "statement": "Compute the area of rectangles when whole number dimensions are given"
                         }
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.m.20-23", 
                     "range": "20-23", 
                     "standards": [
                         {
@@ -591,6 +645,7 @@
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.m.24-27", 
                     "range": "24-27", 
                     "standards": [
                         {
@@ -600,13 +655,14 @@
                             "statement": "Compute the area and circumference of circles after identifying necessary information"
                         }, 
                         {
-							"application": "PLAN,ACT", 
+                            "application": "PLAN,ACT", 
                             "statement": "Compute the perimeter of simple composite geometric figures with unknown side lengths"
                         }
                     ]
                 }, 
                 {
                     "application": "PLAN,ACT", 
+                    "id": "act.crs.math.m.28-32", 
                     "range": "28-32", 
                     "standards": [
                         {
@@ -616,6 +672,7 @@
                 }, 
                 {
                     "application": "ACT", 
+                    "id": "act.crs.math.m.33-36", 
                     "range": "33-36", 
                     "standards": [
                         {
@@ -628,10 +685,12 @@
                 }
             ], 
             "title": "Measurement"
-        },
+        }, 
         {
-            "scoreRanges": [   
+            "id": "act.crs.math.f", 
+            "scoreRanges": [
                 {
+                    "id": "act.crs.math.f.20-23", 
                     "range": "20-23", 
                     "standards": [
                         {
@@ -640,6 +699,7 @@
                     ]
                 }, 
                 {
+                    "id": "act.crs.math.f.24-27", 
                     "range": "24-27", 
                     "standards": [
                         {
@@ -652,11 +712,12 @@
                 }, 
                 {
                     "application": "PLAN,ACT", 
+                    "id": "act.crs.math.f.28-32", 
                     "range": "28-32", 
                     "standards": [
                         {
                             "statement": "Evaluate composite functions at integer values"
-                        },
+                        }, 
                         {
                             "statement": "Apply basic trigonometric ratios to solve right-triangle problems"
                         }
@@ -664,6 +725,7 @@
                 }, 
                 {
                     "application": "ACT", 
+                    "id": "act.crs.math.f.33-36", 
                     "range": "33-36", 
                     "standards": [
                         {
@@ -671,7 +733,7 @@
                         }, 
                         {
                             "statement": "Use trigonometric concepts and basic identities to solve problems"
-                        },
+                        }, 
                         {
                             "statement": "Exhibit knowledge of unit circle trigonometry"
                         }, 
