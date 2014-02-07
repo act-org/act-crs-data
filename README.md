@@ -1,3 +1,5 @@
+Note: CRS has been retired in favor of the new [College and Career Readiness Standards](http://act.org/standards)
+---
 # ACT College Readiness Standards (CRS) JSON Repository
 JSON representations of the ACT College Readiness Standards
 
